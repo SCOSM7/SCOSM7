@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**SCOSM7/SCOSM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Getting started:👋
+  [![Author](https://img.shields.io/badge/author-GabrielLuiz-191F2B?style=flat-square)](https://github.com/GabrielLuizSF)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**SCOSM7** is a ✨ _special_ ✨ console because its `console.cpp` (this file) has a code that increases your productivity and facilitates older computers to access websites with faster browsers writing just one word.
+
+
+
+  <a href="github.com/SCOSM7/SCOSM7/issues">💬 Ask me about: new ideas 💡</a>
+
+</div>
