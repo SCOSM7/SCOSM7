@@ -8,6 +8,6 @@
 
 
 
-  <a href="github.com/SCOSM7/SCOSM7/issues">💬 Ask me about: new ideas 💡</a>
+  <a href="mailto:contatonovasideiasgeniosas@gmail.com">💬 Ask me about: new ideas 💡</a>
 
 </div>
